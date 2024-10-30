@@ -17,6 +17,7 @@ void input(string message, int& number, int minimum) {
     } while (number < minimum);
 }
 
+
 /// <summary>
 /// Vẽ hình chữ nhật đặc
 /// </summary>
